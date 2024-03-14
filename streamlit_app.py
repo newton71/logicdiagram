@@ -18,7 +18,7 @@ from plotLogicDiagram import*
 
 #-------------------------------------------------------------------------------------------------------
 
-isDevt = 1
+isDevt = 0
 
 if isDevt == 1:
    openai_api_key = os.environ["OPENAI_API_KEY"]
