@@ -4,4 +4,3 @@ tiktoken
 faiss-cpu
 networkx
 matplotlib
-json
