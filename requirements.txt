@@ -1,0 +1,8 @@
+openai
+langchain
+tiktoken
+faiss-cpu
+networkx
+matplotlib
+io
+json
